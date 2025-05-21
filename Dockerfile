@@ -1,4 +1,4 @@
-FROM guysoft/uwsgi-nginx:python3.7
+FROM tiangolo/uwsgi-nginx:python3.12
 
 LABEL maintainer="hunshcn <hunsh.cn@gmail.com>"
 
